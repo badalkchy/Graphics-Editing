@@ -1,0 +1,422 @@
+
+Registration is mandatory for participation in any event.
+Registration Fee per head: Rs. 20/-
+Cash Prize for all Technical Events:
+Winners: Rs. 1000/-
+
+Runner-Up: Rs.500/-
+
+Venue and Time will be informed at the time of registration.
+Decision of the judges/coordinators will be final.
+Disqualification Criteria:
+Unfair Means.
+Copied Content.
+Indiscipline/ arguments.
+ 
+
+BREAK THE QUERY
+
+Technology Used: SQL
+
+Maximum Team Size: 2 (Two members)
+
+Rounds: 2 (Time Limited)
+
+Round 1: Elimination Round (MCQ’s related to Data Bases)
+
+Round 2: Solving SQL queries.
+
+CODE WAR
+
+Technology Used: C++
+
+Individual Participation.
+
+Rounds: 2 (Time Limited)
+
+Round 1: Elimination Round (MCQ’s related to Computer and Technology.)
+
+Round 2: Debugging the C++ Code. (Without changing the logic of code)
+
+ 
+
+MULTIMEDIA PRESENTATION/ SHORT FILM
+
+Technology Used: Any movie making software/Power Point Presentation.
+
+Maximum Team Size: 4
+
+Topic: Film depicting Social or Cultural Message.
+
+ 
+
+Time limit: 4-5 minutes
+
+ 
+
+Judgement Criteria:
+
+         
+
+The presentation needs to be published/converted to movie format .avi, .wmv etc.
+There will be no live speaking except Introductory or concluding part.
+The presentations must run on their own – team members will not be allowed to manually play the presentation.
+The presentations will be judged on Graphics, Sound, Storyline and creativity.
+ 
+
+DIMENSIONS (AUTO CAD)
+
+Technology Used: AUTOCAD
+
+Individual Participation.
+
+Event Rules:
+
+Two Drawings will be provided to all the students.
+First drawing is Mandatory for all (Time Limit 10 Minutes).
+Second Drawing will be for shortlisted Participants (Time Limit 20 Minutes).
+Judgment will be done considering the technical details & speed of completion of task.
+DEBATE
+
+Mandatory Team Size:  Two Members (Each in favor and against the topic.)
+
+Topic: On the Spot.
+
+Judgment Criteria:
+
+1.     Content
+
+2.     Presentation of the material
+
+3.     Consideration of  time limit
+
+ 
+
+ 
+
+INNOVATOR
+
+Presentation of Technical Innovative idea using graphical means (MS-Powerpoint, Autocad or any 3D/2D representation etc.)
+
+Maximum Team Size: 3 (Three members)
+
+Rounds: 2 (Time Limited)
+
+Round 1: Elimination Round (Presentation Based)
+
+Round 2: Cross Questioning.
+
+Judgment Criteria:
+
+Area of Implementation.
+Future Scope.
+Presentation.
+Justification of Idea.
+ 
+
+GROUP DISCUSSION
+
+Individual Participation.
+
+Topic: On the Spot.
+
+Group Members: On the spot
+
+Rounds.
+
+Round 1. Elimination Round (participants will be divided into groups of 5)
+
+Round 2. Shortlisted candidates will be judged on the basis of key points.
+
+Key Points:
+
+Activeness, Participation, Communication Skills, Concise & Precise Idea.
+
+ 
+
+ 
+
+UDAAN FEST 2019: DAY 1: OCTOBER 23, 2019
+
+VENUE: INTERACTION HALL
+
+(SECOND FLOOR, TRAINING & PLACEMENT  CELL)
+
+PARTICIPATION FEE: RUPEES 20
+
+RULES AND REGULATIONS FOR PAPER-PRESENTATION COMPETITION
+
+Maximum Team Size: 2 (Two Members)
+Participants can bring their presentation in pen-drive also. Power
+Point Presentation (PPT) is also allowed.
+
+Details of the topics for the Paper Presentation Competition is as
+Under two groups:
+
+(Group 1)
+
+Science and Technology
+Cloud Computing
+Big Data
+Networking
+Internet of Things (IOT)
+Integrated Circuits (IC’s)
+Aurdino
+Programmable Logic Controller (PLC’s)
+Earthquake Engineering
+Foundation Engineering
+(Group 2)
+
+Change Management Training
+Effective leadership
+Stress Management at Work
+Planning of Indian Cities
+Responding to Negative Feedback
+Resolving Workplace Conflict
+ 
+
+The participant has to complete his/her presentation within  10Minutes.     
+The results will be declared after the competition is over.
+Decision of the judges will be final.
+Reporting time for the competition is 10 A.M.
+Competition will start at 12 A.M. and will continue upto 1.30 P.M.
+ 
+
+ 
+
+EXTEMPORE SPEECH CONTEST
+
+Individual Participation.
+
+Topic: On the Spot.
+
+Time Limit: 2 Minutes.
+
+Language: English
+
+Judgment Criteria:
+
+Content
+Presentation of the material
+Consideration of time limit
+ 
+
+ 
+
+ESSAY WRITING
+
+Individual Participation
+
+Topic: On the Spot
+
+Time Limit: 20 minutes.
+
+Word Count: 500 words (max)
+
+Judgment Criteria:
+
+Quality of content.
+Word limit.
+ 
+
+AD MAD SHOW
+
+ 
+
+Maximum Team Members: 5
+
+ 
+
+Theme: Any product.
+
+ 
+
+Time Allowed: 3-4 minutes.
+
+ 
+
+Judgment Criteria:
+
+ 
+
+Originality of Content
+Humor & Stage Presence.
+ 
+
+ROBO WAR
+
+ 
+
+Maximum Team Size: 4 (Four members)
+
+Guidelines:
+
+Maximum Size: 500mm × 500mm x 750mm.
+Maximum Weight: 25kg. Excluding external power supply and controller unit.
+Voltage limit: 24v DC
+
+Participants must bring their own Power Supply.
++/-10% tolerance in weight and dimension is allowed.
+Pneumatic devices are allowed.
+The robot should not cause any damage to the arena or else it will be disqualified.
+
+ 
+
+ 
+
+GO-AUTO EXPO
+
+Maximum Team Members: 10 (Ten Members)
+
+Event Requirement: Mechanical powered vehicle(Working Conditions).
+
+ 
+
+Judgment Criteria:
+
+Demonstration and Presentation of the vehicle.
+Perspective of the Idea (Fuel consumption, Environment Friendly etc.)
+ 
+
+ 
+
+ 
+
+PHOTOSHOP EDITING
+
+Technology Used : Adobe Photoshop 7.0.(Same version for all participants.)
+
+Individual Participation.
+
+Time Limit : 30 minutes.
+
+Content for Photoshop will be provided on the spot.
+
+Judgment Criteria :
+
+Use of technology i.e. Editing, Graphics, Visuals etc.
+Theme of Editing / Perspective of the Participant.
+Final Theme Image must be in .PSD and .JPG format according to your choice resolution.
+ 
+
+ 
+
+Live Project Exhibition
+
+ 
+
+Maximum Team Members: 5
+
+ 
+
+Theme: Any Project.
+
+ 
+
+Time Allowed: 10 minutes.
+
+ 
+
+Judgment Criteria:
+
+ 
+
+Use of
+Presentation of project.
+Future Scope / Implementation.
+ 
+
+POSTER MAKING
+
+ 
+
+Individual Participation
+
+ 
+
+Theme: On the spot.
+
+ 
+
+Maximum Time Limit: 1 hour.
+
+ 
+
+Guidelines:
+
+ 
+
+Participants must bring their own materials.
+Sheet Size : A2 (Half Chart) will be provided by College.
+Sheets must be signed by coordinators before completion of task.
+ 
+
+PICTO Competition
+
+Maximum Team Size : 2 members.
+
+ 
+
+Maximum Time Limit: 10 minutes.
+
+ 
+
+Guidelines:
+
+ 
+
+Pictures will be provide by the
+Story line should be based upon
+Title for Story is mandatory.
+ 
+
+TREASURE HUNT
+
+Maximum Team Size : 3 members.
+
+ 
+
+Maximum Time Limit: 90 minutes.
+
+ 
+
+Guidelines:
+
+List of things will be given to participants.
+The hunting of materials should only be done within College Premises.
+Team hunting most materials within limited time will be Announced as Winners. 
+ 
+
+ 
+
+BUSINESS IDEAS
+
+Maximum Team Size : 5 members.
+
+ 
+
+Maximum Time Limit: 10 minutes.
+
+ 
+
+Judgment Criteria:
+
+Area of Implementation.
+Future Scope.
+Presentation.
+Justification of Idea.
+ 
+
+ 
+
+  TECHNICAL QUIZ
+
+ 
+
+Maximum Team Size : 4 members.
+
+Rounds: 2 (Time Limited)
+
+Round 1: Elimination Round (MCQ’s )
+
+Round 2: Technical Quiz.
